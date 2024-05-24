@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bf13de7-0cd4-4a4b-ba15-b6d9729d8470" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/IoT_Analysis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/extract_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions/classes/IoTError.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/Data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/ErrorMessagesAcc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/ErrorMessagesTl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/IoTStandardPlotter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/OEE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/Package_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/Recipe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/Utility.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/production_performance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/production_problems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prognosis.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2g1AfrAQQrrij6uyjKn06Bnabwm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.data_loader.executor": "Run",
+    "Python.extract_data.executor": "Run",
+    "Python.notes.executor": "Run",
+    "Python.production_performance.executor": "Run",
+    "Python.production_problems.executor": "Run",
+    "Python.prognosis.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/timur/PycharmProjects/IoT_Analysis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\timur\PycharmProjects\IoT_Analysis\exceptions\classes" />
+      <recent name="C:\Users\timur\PycharmProjects\IoT_Analysis\src\classes" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bf13de7-0cd4-4a4b-ba15-b6d9729d8470" name="Changes" comment="" />
+      <created>1714854816136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714854816136</updated>
+      <workItem from="1714854817346" duration="1836000" />
+      <workItem from="1714858032312" duration="474000" />
+      <workItem from="1716119212082" duration="5808000" />
+      <workItem from="1716125367873" duration="16009000" />
+      <workItem from="1716202801224" duration="9528000" />
+      <workItem from="1716212723607" duration="719000" />
+      <workItem from="1716370857586" duration="12592000" />
+      <workItem from="1716460616826" duration="11959000" />
+      <workItem from="1716478326994" duration="25985000" />
+      <workItem from="1716509442668" duration="731000" />
+      <workItem from="1716549040907" duration="22955000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/classes/IoTStandardPlotter.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IoT_Analysis$production_performance.coverage" NAME="production_performance Coverage Results" MODIFIED="1716504673384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/IoT_Analysis$extract_data.coverage" NAME="extract_data Coverage Results" MODIFIED="1716125207123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/IoT_Analysis$prognosis.coverage" NAME="prognosis Coverage Results" MODIFIED="1716572741570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/IoT_Analysis$data_loader.coverage" NAME="data_loader Coverage Results" MODIFIED="1714856040542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/IoT_Analysis$notes.coverage" NAME="notes Coverage Results" MODIFIED="1716563302879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/IoT_Analysis$production_problems.coverage" NAME="production_problems Coverage Results" MODIFIED="1716564469136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
